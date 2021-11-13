@@ -1,0 +1,1 @@
+cls && adb logcat | findstr flutter
